@@ -5,7 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/piyush.patil.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="piyush.patil.x" height="30" width="40" /></a>
+<a href="https://instagram.com/piyush.patil.x" target="blank">
+<img align="center" height=30px width=30px src="https://instagram.com/favicon.ico" alt="piyush.patil.x" height="30" width="40" />
+piyush.patil.x
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
