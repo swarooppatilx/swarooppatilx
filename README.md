@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Piyush</h1>
-<h3 align="center">A Teenage Pragrammer from India.</h3>
 
 - 🌱 I’m currently learning **React JS.**
 
