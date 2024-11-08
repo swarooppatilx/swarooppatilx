@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Swaroop</h1>
-<!--
-<p align="center">
-  <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/banner.png" />
-</p>
--->
 
 <p align="center">
   <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/anime.gif" />
@@ -15,7 +10,7 @@
   <a href="https://linkedin.com/in/swarooppatilx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarooppatilx" height="30" width="40" /></a>
   <a href="https://instagram.com/swarooppatilx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swarooppatilx" height="30" width="40" /></a>
 </p>
-<br>
+<p>&nbsp;</p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=swarooppatilx&theme=gotham&show_icons=true&count_private=true"
@@ -27,7 +22,7 @@
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swarooppatilx&show_icons=true&count_private=true" alt="swarooppatilx's GitHub Stats" />
 </picture>
-&nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp;
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swarooppatilx&layout=compact&langs_count=8&card_width=320&theme=gotham&show_icons=true&count_private=true"
@@ -39,3 +34,9 @@
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarooppatilx&layout=compact&langs_count=8&card_width=320&show_icons=true&count_private=true" alt="swarooppatilx's Top Languages" />
 </picture>
+<p>
+  &nbsp;
+</p>
+<p align="center">
+  <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/banner.png" />
+</p>
