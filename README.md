@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Swaroop</h1>
-
-![swarooppatilx's Stats](https://github-readme-stats.vercel.app/api?username=swarooppatilx&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-![swarooppatilx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarooppatilx&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+<a href="https://github.com/swarooppatilx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swarooppatilx" />
+</a>
+<a href="https://github.com/swarooppatilx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarooppatilx&layout=compact&langs_count=8&card_width=320" />
+</a>
