@@ -20,8 +20,10 @@
   </picture>
 </div>
 
+<!--
 ---
 
 <p align="center">
   <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/banner.png" alt="Banner" width="90%" />
 </p>
+-->
