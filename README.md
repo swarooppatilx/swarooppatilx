@@ -4,6 +4,7 @@
   <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/anime.gif" alt="Anime GIF" width="80%" />
 </p>
 
+<!--
 ---
 
 <div align="center">
@@ -20,7 +21,6 @@
   </picture>
 </div>
 
-<!--
 ---
 
 <p align="center">
