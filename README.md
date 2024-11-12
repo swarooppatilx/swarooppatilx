@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Swaroop</h1>
 
 <p align="center">
-  <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/anime.gif" alt="Anime GIF" width="100%" />
+  <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/anime.gif" alt="Anime GIF" width="80%" />
 </p>
 
 ---
@@ -15,24 +15,22 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=swarooppatilx&theme=gotham&show_icons=true&count_private=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=swarooppatilx&theme=default&show_icons=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=swarooppatilx&show_icons=true&count_private=true" alt="GitHub Stats" width="100%" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=swarooppatilx&show_icons=true&count_private=true" alt="GitHub Stats" />
   </picture>
-</p>
 
-<p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swarooppatilx&layout=compact&langs_count=8&theme=gotham&show_icons=true&count_private=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swarooppatilx&layout=compact&langs_count=8&theme=default&show_icons=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarooppatilx&layout=compact&langs_count=8&show_icons=true&count_private=true" alt="Top Languages" width="100%" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarooppatilx&layout=compact&langs_count=8&show_icons=true&count_private=true" alt="Top Languages" />
   </picture>
-</p>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/swarooppatilx/swarooppatilx/blob/main/banner.png" alt="Banner" width="90%" />
 </p>
